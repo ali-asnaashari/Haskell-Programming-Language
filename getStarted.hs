@@ -38,4 +38,6 @@ which plays a similar role to the Main method in Java/C++/C# or __main__ in Pyth
     1) The first is to pass the filename as an argument to ghci --> ghci FileName.hs
     2) use the :l (or :load) --> :l FileName
 
+when you are using Haskell You are going to get a lot of Errors Because the compiler is very Strict and Safe
+
 -}
