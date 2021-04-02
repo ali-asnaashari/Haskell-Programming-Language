@@ -25,7 +25,7 @@ main = do
 {-
 -- Third Program
 
--- define three Function
+-- Define Four Function
 
 toPart recipient = "Dear " ++ recipient ++ ",\n "
 bodyPart bookTitle = "Thanks for buying " ++ bookTitle ++ ".\n "
